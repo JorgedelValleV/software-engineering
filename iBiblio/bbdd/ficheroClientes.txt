@@ -1,0 +1,85 @@
+{
+"clientes": [
+
+{
+"nombre" : "javimulero",
+"email" : "jmulero@ucm.es",
+"password" : "contrasea",
+"id" : "1",
+"biblioteca" : "",
+"sitio" : "0"
+},
+
+{
+"nombre" : "b",
+"email" : "b",
+"password" : "b",
+"id" : "2",
+"biblioteca" : "Biblioteca Maria Zambrano",
+"sitio" : "34"
+},
+
+{
+"nombre" : "a",
+"email" : "a",
+"password" : "a",
+"id" : "3",
+"biblioteca" : "Biblioteca Maria Zambrano",
+"sitio" : "33"
+},
+
+{
+"nombre" : "pepe11",
+"email" : "pepe@ucm.es",
+"password" : "pepe",
+"id" : "4",
+"biblioteca" : "",
+"sitio" : "0"
+},
+
+{
+"nombre" : "asd",
+"email" : "asd",
+"password" : "asd",
+"id" : "5",
+"biblioteca" : "",
+"sitio" : "0"
+},
+
+{
+"nombre" : "javixu99",
+"email" : "jmuler@ucm.es",
+"password" : "primark",
+"id" : "6",
+"biblioteca" : "Biblioteca de Valdebernardo",
+"sitio" : "33"
+},
+
+{
+"nombre" : "demostracion",
+"email" : "demostracion@ucm.es",
+"password" : "1234",
+"id" : "7",
+"biblioteca" : "",
+"sitio" : "0"
+},
+
+{
+"nombre" : "demo",
+"email" : "demo@ucm.es",
+"password" : "1234",
+"id" : "8",
+"biblioteca" : "Biblioteca Maria Zambrano",
+"sitio" : "36"
+},
+
+{
+"nombre" : "demo1",
+"email" : "demo1@ucm.es",
+"password" : "1234",
+"id" : "9",
+"biblioteca" : "Biblioteca Maria Zambrano",
+"sitio" : "35"
+}
+]
+}
