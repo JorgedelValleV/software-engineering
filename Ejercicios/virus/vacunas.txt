@@ -1,0 +1,48 @@
+Complejos virales LCM-Lassa
+34
+Paramyxoviridae
+70
+Virus SARS
+25
+Complejos virales LCM-Lassa
+46
+Encefalitis verno-estival rusa
+81
+Virus Bhanja
+33
+Virus Bhanja
+55
+Mal de Louping
+60
+Rocio
+89
+Fiebre amarilla
+17
+Encefalitis verno-estival rusa
+73
+Virus Bhanja
+29
+Fiebre amarilla
+43
+Mal de Louping
+35
+Hantaan
+64
+Mal de Louping
+78
+Encefalitis de St Louis
+13
+Virus del dengue
+42
+Hepatitis G
+68
+Omsk (a)
+30
+Virus del papiloma humano
+22
+Virus del papiloma humano
+10
+Omsk (a)
+27
+Hantaan
+93

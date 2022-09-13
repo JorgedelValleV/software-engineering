@@ -1,0 +1,38 @@
+Complejos virales LCM-Lassa
+3 3
+Virus de la coriomeningitis linfocítica
+2 4
+Virus Bhanja
+2 5
+Virus del papiloma humano
+3 1
+Paramyxoviridae
+5 2
+Hantaan
+3 2
+Buffalopox virus
+2 5
+Virus SARS
+4 4
+Hepatitis G
+4 2
+Virus del dengue
+4 3
+Mal de Louping
+1 5
+Omsk (a)
+5 3
+Powassan
+3 3
+Rocio
+4 2
+Encefalitis verno-estival rusa
+3 5
+Encefalitis de St Louis
+4 4
+Virus Wesselsbron
+2 4
+Virus del Nilo occidental
+2 1
+Fiebre amarilla
+5 3
